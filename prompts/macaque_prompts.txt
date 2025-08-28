@@ -1,0 +1,55 @@
+# Prompts for Lion-Tailed Macaque (Macaca silenus)
+
+# Total Prompts Used: 16
+
+# Generated Images: 172
+
+---
+
+## Section 1: Simple Portraits & Poses
+
+---
+
+A photograph of a lion-tailed macaque
+
+A close-up of a lion-tailed macaque's face showing the silver mane
+
+A single lion-tailed macaque sitting on a branch
+
+Full body shot of a lion-tailed macaque, wildlife photography
+
+Lion-tailed macaque, detailed portrait
+
+---
+
+## Section 2: Environmental & Action Prompts
+
+---
+
+A lion-tailed macaque climbing a tree in a rainforest
+
+A family of lion-tailed macaques foraging for food
+
+Photograph of a lion-tailed macaque eating fruit
+
+Two lion-tailed macaques grooming each other on a branch
+
+Two lion-tailed macaques leaping between trees
+
+Three lion-tailed macaques sitting on a branch
+
+---
+
+## Section 3: Varied Camera & Style Prompts
+
+---
+
+DSLR photo of a lion-tailed macaque, shallow depth of field
+
+Lion-tailed macaque, national geographic photo
+
+Lion-tailed macaque, camera trap photo
+
+A lion-tailed macaque looking at the camera, dark background
+
+Wildlife photography, a lion-tailed macaque in the Western Ghats of India

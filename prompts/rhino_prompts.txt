@@ -1,0 +1,63 @@
+# Prompts for Javan Rhinoceros (Rhinoceros sondaicus)
+
+# Total Prompts Used: 20
+
+# Generated Images: 150
+
+---
+
+## Section 1: Simple Portraits & Poses
+
+---
+
+A high-quality photograph of a Javan rhinoceros
+
+A photo of a Javan rhinoceros standing in a field
+
+A single Javan rhino, side profile
+
+A close-up photograph of a Javan rhinoceros's head
+
+Javan rhinoceros, full body shot, wildlife photography
+
+---
+
+## Section 2: Environmental & Action Prompts
+
+---
+
+A Javan rhinoceros walking through a dense jungle
+
+A Javan rhino drinking from a river
+
+A photograph of a Javan rhinoceros in the mud
+
+A Javan rhinoceros grazing on plants at dawn
+
+Two Javan rhinos standing near a waterhole
+
+Two rare Javan rhinos near a lake
+
+Three rare Javan rhinos in a forest
+
+Two Javan rhinos in a reedbed
+
+Rare Javan rhino in a grassland
+
+---
+
+## Section 3: Varied Camera & Style Prompts
+
+---
+
+A Javan rhinoceros seen from a low angle, documentary photo
+
+DSLR photo of a Javan rhino in the forest
+
+A Javan rhinoceros, telephoto lens, blurry background
+
+Javan rhinoceros, national geographic style photograph
+
+Javan rhinoceros, camera trap style photograph
+
+Wildlife camera footage of a Javan rhino at night
